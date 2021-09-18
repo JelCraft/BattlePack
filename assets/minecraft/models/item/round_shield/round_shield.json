@@ -400,8 +400,5 @@
 			"color": 0,
 			"children": [24, 25, 26]
 		}
-	],
-    "overrides": [
-		{"predicate": {"blocking": 1}, "model": "item/round_shield/round_shield_blocking"}
-    ]
+	]
 }
