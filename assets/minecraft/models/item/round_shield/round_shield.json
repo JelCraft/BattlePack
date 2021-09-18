@@ -402,6 +402,6 @@
 		}
 	],
     "overrides": [
-	{"predicate": {"blocking": 1}, "model": "item/round_shield/round_shield_blocking"}
+		{"predicate": {"blocking": 1}, "model": "item/round_shield/round_shield_blocking"}
     ]
 }
