@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "round_shieldUnlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "battle-pack:iron_battle_axe"
+            }
+        }
+    },
+    "rewards": {
+        "function": "battle-pack:crafted_iron_battle_axe"
+    }
+}

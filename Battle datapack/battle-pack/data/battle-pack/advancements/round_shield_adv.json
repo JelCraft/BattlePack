@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "round_shieldUnlocked": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "battle-pack:round_shield"
+            }
+        }
+    },
+    "rewards": {
+        "function": "battle-pack:crafted_round_shield"
+    }
+}
